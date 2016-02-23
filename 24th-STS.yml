@@ -4,7 +4,7 @@
 :rules: []
 :force_server_name: false
 :game: ArmA2OaCO
-:open: false
+:open: true
 :hidden: false
 :force_mod_update: false
 :required_mods: 
