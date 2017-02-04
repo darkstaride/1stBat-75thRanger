@@ -2,8 +2,7 @@
 :homepage: ""
 :archive_format: .gz
 :hosts: []
-:servers: 
-- 24th-STS
+:servers: {}
 :apps: {}
 :mods: {}
 :missions: {}
